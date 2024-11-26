@@ -1,0 +1,27 @@
+.relative {
+  position: relative;
+}
+
+.absolute {
+  position: absolute;
+}
+
+.left-10 {
+  left: 2.5rem;
+}
+
+.w-1 {
+  width: 0.25rem;
+}
+
+.bg-gray-300 {
+  background-color: #d1d5db;
+}
+
+.pl-20 {
+  padding-left: 5rem;
+}
+
+.mb-6 {
+  margin-bottom: 1.5rem;
+}
